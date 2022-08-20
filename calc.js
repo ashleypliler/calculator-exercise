@@ -30,8 +30,8 @@ if (mathSymbol === "*"){
 if (mathSymbol === "/"){
 	console.log(num1 / num2);
 };
-if (mathSymbol === "%"){
-	console.log(num1 % num2);
+if (mathSymbol === "**2"){
+	console.log(num1 **2, num2 **2);
 };
 
 	// This line closes the connection to the command line interface.
